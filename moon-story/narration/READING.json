@@ -1,0 +1,105 @@
+{
+  "description": "Synthetic childlike Mandarin narration; not a recording of a child.",
+  "voice": "Tingting",
+  "pitch_ratio": 1.2,
+  "sample_rate": 24000,
+  "picture_seconds": 4,
+  "scenes": [
+    {
+      "scene": 1,
+      "text": "一个宁静的夜晚，小猴子往井里一看。",
+      "start_seconds": 0.12,
+      "duration_seconds": 2.893,
+      "speed": 1,
+      "file": "01.wav"
+    },
+    {
+      "scene": 2,
+      "text": "不好啦！月亮掉到井里了！",
+      "start_seconds": 4.12,
+      "duration_seconds": 1.865,
+      "speed": 1,
+      "file": "02.wav"
+    },
+    {
+      "scene": 3,
+      "text": "小猴子大声呼喊，其他猴子急忙赶来。",
+      "start_seconds": 8.12,
+      "duration_seconds": 3.138,
+      "speed": 1,
+      "file": "03.wav"
+    },
+    {
+      "scene": 4,
+      "text": "大家围在井沿上，都想把月亮救出来。",
+      "start_seconds": 12.12,
+      "duration_seconds": 3.174,
+      "speed": 1,
+      "file": "04.wav"
+    },
+    {
+      "scene": 5,
+      "text": "老猴子发现，一根树枝正好伸在井口上方。",
+      "start_seconds": 16.12,
+      "duration_seconds": 3.545,
+      "speed": 1,
+      "file": "05.wav"
+    },
+    {
+      "scene": 6,
+      "text": "一只抓住树枝，其他猴子一个接一个拉住。",
+      "start_seconds": 20.12,
+      "duration_seconds": 3.002,
+      "speed": 1,
+      "file": "06.wav"
+    },
+    {
+      "scene": 7,
+      "text": "长长的猴子链，慢慢地向井水伸去。",
+      "start_seconds": 24.12,
+      "duration_seconds": 2.778,
+      "speed": 1,
+      "file": "07.wav"
+    },
+    {
+      "scene": 8,
+      "text": "最下面的小猴子，伸出双手去捞月亮。",
+      "start_seconds": 28.12,
+      "duration_seconds": 3.198,
+      "speed": 1,
+      "file": "08.wav"
+    },
+    {
+      "scene": 9,
+      "text": "手里只有水，水波把月亮的倒影打散了。",
+      "start_seconds": 32.12,
+      "duration_seconds": 3.088,
+      "speed": 1,
+      "file": "09.wav"
+    },
+    {
+      "scene": 10,
+      "text": "老猴子抬头一看，发现月亮还在天上。",
+      "start_seconds": 36.12,
+      "duration_seconds": 3.291,
+      "speed": 1,
+      "file": "10.wav"
+    },
+    {
+      "scene": 11,
+      "text": "大家跟着抬头看，天上的月亮好好的！",
+      "start_seconds": 40.12,
+      "duration_seconds": 2.949,
+      "speed": 1,
+      "file": "11.wav"
+    },
+    {
+      "scene": 12,
+      "text": "猴子们笑了：井里的月亮原来只是倒影。",
+      "start_seconds": 44.12,
+      "duration_seconds": 2.953,
+      "speed": 1,
+      "file": "12.wav"
+    }
+  ]
+}
